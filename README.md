@@ -1,1 +1,1 @@
-This repository contains my C programming journey, where I practice and upload programs starting from basic concepts to more advanced topics. All programs in this repository are written, tested, and organized by me as part of my learning process.
+This repository contains my C programming journey 💻, where I practice and upload programs starting from basic concepts to more advanced topics 🚀. All programs in this repository are written, tested, and organized by me as part of my learning process 📈.
