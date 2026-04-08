@@ -10,7 +10,7 @@ int main()
     printf("enter width:");
     scanf("%f",&width);
     area = length * width;
-    printf("the perimeter of rectangle:: %f sq. units", area);
+    printf("the area of rectangle:: %f sq. units", area);
 
     return 0;
 }
